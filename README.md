@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# PROJECT UTS FE
+Disini saya membuat sebuah projek FE menggunakan React js, Express js, React Router Dom untuk melakukan routing, Axios untuk melakukan pengambilan data dan tailwind css untuk melakukan styling
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## FITUR UTAMA
+- React js sebagai library yang digunakan sebagai untuk mebangun interface yang dinamis dan interaktif
+- Express.js adalah kerangka kerja backend minimalis untuk Node.js yang digunakan untuk membangun aplikasi web dan API. juga menjadi yang melayani permintaan front-end
+- React Router DOM untuk routing pada aplikasi react. ini memungkinkan navigasi antar halaman tanpa melakukan reload pada suatu halaman
+- Axios adalah pustaka untuk melakukan permintaan HTTP (GET, POST, PUT, DELETE) dari frontend ke backend atau API.
+- Tailwind CSS adalah framework CSS berbasis utility-first yang memungkinkan pengembangan antarmuka dengan cepat menggunakan class yang sudah jadi.
 
-## Available Scripts
+## PREVIEW
+#### 1. HALAMAN HOME
+<img src="./src/img/home.png">
 
-In the project directory, you can run:
+#### 2. TAMPILAN HALAMAN DATA
+<img src="./src/img/obat.png">
 
-### `npm start`
+#### 3. TAMPILAN EDIT DATA OBAT
+<img src="./src/img/editOBAT.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### 4. TAMPILAN HALAMAN CUTOMER 
+<img src="./src/img/customer.png">
