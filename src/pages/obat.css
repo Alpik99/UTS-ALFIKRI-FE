@@ -1,0 +1,125 @@
+.obat{
+    margin: 20px;
+}
+
+/* Button Edit */
+.btn-edit {
+    background-color: #2563EB; /* Blue */
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-edit:hover {
+    background-color: #1D4ED8; /* Darker blue on hover */
+}
+
+/* Modal overlay */
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(75, 85, 99, 0.5); /* Gray with opacity */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Modal container */
+.modal-container {
+    background-color: white;
+    border-radius: 0.5rem; /* Rounded corners */
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1); /* Shadow */
+    max-width: 32rem; /* Maximum width of modal */
+    width: 100%;
+}
+
+/* Modal header */
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid #E5E7EB; /* Light gray border */
+}
+
+.modal-title {
+    font-size: 1.25rem; /* Equivalent to text-xl */
+    font-weight: bold;
+    color: #2563EB; /* Blue */
+}
+
+/* Modal close button */
+.modal-close-button {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: #4B5563; /* Gray */
+    cursor: pointer;
+}
+
+.modal-close-button:hover {
+    color: #111827; /* Darker gray on hover */
+}
+
+/* Modal body */
+.modal-body {
+    padding: 1rem;
+}
+
+/* Form group */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+/* Form input */
+.form-input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 2px solid #2563EB; /* Blue outline */
+    border-radius: 0.375rem;
+    color: #2563EB; /* Blue text */
+    outline: none;
+}
+
+.form-input:focus {
+    border-color: #1D4ED8; /* Darker blue on focus */
+}
+
+/* Modal footer */
+.modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1rem;
+    border-top: 1px solid #E5E7EB; /* Light gray border */
+    gap: 1rem; /* Gap between buttons */
+}
+
+/* Close button */
+.modal-close-btn {
+    background-color: #EF4444; /* Red */
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    border: none;
+    cursor: pointer;
+}
+
+.modal-close-btn:hover {
+    background-color: #DC2626; /* Darker red on hover */
+}
+
+/* Save button */
+.modal-save-btn {
+    background-color: #2563EB; /* Blue */
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    border: none;
+    cursor: pointer;
+}
+
+.modal-save-btn:hover {
+    background-color: #1D4ED8; /* Darker blue on hover */
+}
