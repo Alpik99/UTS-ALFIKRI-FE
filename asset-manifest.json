@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UTS-ALFIKRI-FE/static/css/main.8f35482c.css",
+    "main.js": "/UTS-ALFIKRI-FE/static/js/main.52b572a4.js",
+    "index.html": "/UTS-ALFIKRI-FE/index.html",
+    "main.8f35482c.css.map": "/UTS-ALFIKRI-FE/static/css/main.8f35482c.css.map",
+    "main.52b572a4.js.map": "/UTS-ALFIKRI-FE/static/js/main.52b572a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f35482c.css",
+    "static/js/main.52b572a4.js"
+  ]
+}
